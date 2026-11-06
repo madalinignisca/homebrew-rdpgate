@@ -18,7 +18,7 @@ cask "rdpgate" do
 
   app "RDPGate.app"
 
-  uninstall quit: "io.github.madalinignisca.rdpgate"
+  uninstall quit: "me.madalin.rdpgate"
 
   zap trash: "~/Library/Application Support/RDPGate"
 
