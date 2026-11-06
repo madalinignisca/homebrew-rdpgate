@@ -1,6 +1,6 @@
 cask "rdpgate" do
   version "0.2.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "61202562f525301bde156f6d6459442ff5466e459b0f6a0bea7e0090c13123ba"
 
   url "https://github.com/madalinignisca/rdpgate/releases/download/v#{version}/RDPGate-#{version}-arm64.zip"
   name "RDPGate"
